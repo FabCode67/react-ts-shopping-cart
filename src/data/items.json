@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "https://images.pexels.com/photos/209339/pexels-photo-209339.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ]
